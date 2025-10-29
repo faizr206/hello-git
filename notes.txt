@@ -1,0 +1,3 @@
+This is a basic notes containing some lines.
+1. First line
+2. Second line
